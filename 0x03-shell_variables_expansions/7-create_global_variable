@@ -1,2 +1,2 @@
 #!/bin/bash
-PRINTENV_BEST="School"
+echo $((2#$BEST School))
